@@ -5,9 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/
 # Distribution / packaging
 .Python
+Entrenamiento/
 build/
 develop-eggs/
 dist/
